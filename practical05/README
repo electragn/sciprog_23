@@ -1,0 +1,4 @@
+These are codes for Practical5, to compile:
+gcc -o scanf use_scanf.c
+gcc -o fib fibonacci.c 
+gcc -o arc arctan.c -lm
