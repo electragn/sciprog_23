@@ -1,0 +1,5 @@
+These are codes for Practical6, to compile:
+gcc -o matmult matmult.c
+gcc -c main.c
+gcc -c matmult.c
+gcc -o matmultc main.o matmult.o
