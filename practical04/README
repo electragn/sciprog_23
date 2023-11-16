@@ -1,0 +1,4 @@
+These are codes for Practical4, to compile:
+gcc -o trap1_deg trap1_deg.c -lm
+gcc -o trap2_deg trap2_deg.c -lm
+gcc -o trap3_deg trap3_deg.c -lm
