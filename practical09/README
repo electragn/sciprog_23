@@ -1,0 +1,2 @@
+This is code for Practical9, to compile:
+gcc -o main main.c
