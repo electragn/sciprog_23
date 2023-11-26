@@ -1,9 +1,0 @@
-On branch Ilektra_Giannopoulou_Brightspace
-Your branch is up to date with 'origin/Ilektra_Giannopoulou_Brightspace'.
-
-Changes not staged for commit:
-  (use "git add <file>..." to update what will be committed)
-  (use "git restore <file>..." to discard changes in working directory)
-	modified:   gitstatus_output.txt
-
-no changes added to commit (use "git add" and/or "git commit -a")
