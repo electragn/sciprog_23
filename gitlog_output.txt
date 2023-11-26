@@ -1,0 +1,145 @@
+commit 764069639587d1bf5b4d14ce0ada6706429bd10f
+Author: electragn <ilektra.giannopoulou@ucdconnect.ie>
+Date:   Sun Nov 26 18:17:28 2023 +0000
+
+    Delete gitlog_output.txt
+
+commit d2bc78cf5c914d7f3f741a5c59834d0500ffa2ff
+Author: electragn <ilektra.giannopoulou@ucdconnect.ie>
+Date:   Sun Nov 26 18:16:10 2023 +0000
+
+    Delete gitstatus_output.txt
+
+commit 97ce899b6ce59431217d06e252c887c6a1d5f7d5
+Author: electragn <ilektra.giannopoulou@ucdconnect.ie>
+Date:   Sun Nov 26 18:11:43 2023 +0000
+
+    update gitstatus_output.txt
+
+commit 628fce88d81b94ea50bdd4633a63f802abd4030d
+Author: electragn <ilektra.giannopoulou@ucdconnect.ie>
+Date:   Tue Nov 21 20:40:08 2023 +0000
+
+    Create gitstatus_output.txt
+
+commit efe3e96064b90bd1adb2f1a612eee77af46d6e27
+Author: electragn <ilektra.giannopoulou@ucdconnect.ie>
+Date:   Tue Nov 21 20:39:34 2023 +0000
+
+    Create gitlog_output.txt
+
+commit ff649fc9e337d3fdc0d1deb2177872c0b17db280
+Author: electragn <ilektra.giannopoulou@ucdconnect.ie>
+Date:   Tue Nov 21 20:23:06 2023 +0000
+
+    Add practical9
+
+commit 4eb3310d5d268aa83510033c1437cab4a9e4e124
+Author: electragn <ilektra.giannopoulou@ucdconnect.ie>
+Date:   Sun Nov 19 19:39:26 2023 +0000
+
+    Add practical8
+
+commit 70d82dfab22bd43932d99be56812170913521f08
+Author: electragn <ilektra.giannopoulou@ucdconnect.ie>
+Date:   Fri Nov 17 11:27:50 2023 +0000
+
+    Add practical7
+
+commit ea959814c862b5d4f045fc76d7d85741d40a72a1
+Author: electragn <ilektra.giannopoulou@ucdconnect.ie>
+Date:   Thu Nov 16 17:18:33 2023 +0000
+
+    Add practical6
+
+commit b62e571e8256eeb853c8d28c1890c5e1f1d9e6ce
+Author: electragn <ilektra.giannopoulou@ucdconnect.ie>
+Date:   Thu Nov 16 14:11:33 2023 +0000
+
+    Add practical5
+
+commit 3d276432e90dd57ebb2ce46171a10145ffe8b55d
+Author: electragn <ilektra.giannopoulou@ucdconnect.ie>
+Date:   Thu Nov 16 00:19:40 2023 +0000
+
+    Add practical4
+
+commit f00452e05bb170e7ff178678dd3eebf8f0accc06
+Author: electragn <ilektra.giannopoulou@ucdconnect.ie>
+Date:   Sun Nov 12 23:19:38 2023 +0000
+
+    Add practical3
+
+commit 0b50dfd5d06496643bdd8f817255056fcf03c274
+Author: electragn <ilektra.giannopoulou@ucdconnect.ie>
+Date:   Sun Nov 12 22:25:30 2023 +0000
+
+    Add practical2
+
+commit fed8bed1c0f1ae3222a2b0bc8e91576ef961c5b4
+Author: electragn <ilektra.giannopoulou@ucdconnect.ie>
+Date:   Sun Nov 12 21:52:34 2023 +0000
+
+    deleted test files
+
+commit 25eada091589b092090714312a870d359158e729
+Author: electragn <ilektra.giannopoulou@ucdconnect.ie>
+Date:   Sun Nov 12 21:51:51 2023 +0000
+
+    created text.txt
+
+commit 4608a64b6f7220a718df00ff1c5ed5c8433965c1
+Author: electragn <ilektra.giannopoulou@ucdconnect.ie>
+Date:   Thu Oct 19 00:12:40 2023 +0100
+
+    first test line
+    
+    added a comment
+
+commit 4692ab067f0770b5b6dfe670a77980159c9a4599
+Author: Buket Benek Gursoy <buket.gursoy@ichec.ie>
+Date:   Fri Sep 29 09:12:05 2023 +0100
+
+    Update README.md
+
+commit cd1f3539715bb7505a462bca3747943b77a36bab
+Author: Buket Benek Gursoy <buket.gursoy@ichec.ie>
+Date:   Thu Sep 28 15:55:04 2023 +0100
+
+    Update README.md
+
+commit fb2f93729881b2f90f310fc663cc6efd1073017b
+Author: Buket Benek Gursoy <buket.gursoy@ichec.ie>
+Date:   Thu Sep 28 15:54:24 2023 +0100
+
+    Update README.md
+
+commit f7edcd0c9b27b4274913af43d7b53b379b0ed4de
+Author: Buket Benek Gursoy <buket.gursoy@ichec.ie>
+Date:   Thu Sep 28 14:51:49 2023 +0100
+
+    Update README.md
+
+commit 26f18819fe128ba33aac685c327ab3769f7f1efe
+Author: Buket Benek Gursoy <buket.gursoy@ichec.ie>
+Date:   Thu Sep 28 13:45:54 2023 +0100
+
+    Update README.md
+
+commit 28f1724422f6823ce758640815d12816bd7a92f1
+Author: Buket Benek Gursoy <buket.gursoy@ichec.ie>
+Date:   Thu Sep 28 13:42:38 2023 +0100
+
+    Update README.md
+
+commit 12c68e1b6ee16ac5c4fe31c683f42e900b93d64e
+Author: Buket Benek Gursoy <buket.gursoy@ichec.ie>
+Date:   Thu Sep 28 13:41:56 2023 +0100
+
+    Update README.md
+
+commit 25cbd308e636fcc641d18f37f3d0dc139d953832
+Author: Buket Benek Gursoy <buket.gursoy@ichec.ie>
+Date:   Wed Sep 27 14:11:53 2023 +0100
+
+    Initial commit
