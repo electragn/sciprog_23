@@ -1,3 +1,21 @@
+commit 355e9f6770c6ce8c78b2ef9cdde0d51c116c939c
+Author: electragn <ilektra.giannopoulou@ucdconnect.ie>
+Date:   Sun Nov 26 18:24:09 2023 +0000
+
+    Update gitstatus_output.txt
+
+commit f874c5fd59a0c34f55e7984af8772823c0476e63
+Author: electragn <ilektra.giannopoulou@ucdconnect.ie>
+Date:   Sun Nov 26 18:20:17 2023 +0000
+
+    Create gitstatus_output.txt
+
+commit b9743e5665fdff26316a50a37989a878397317d8
+Author: electragn <ilektra.giannopoulou@ucdconnect.ie>
+Date:   Sun Nov 26 18:19:24 2023 +0000
+
+    Create gitlog_output.txt
+
 commit 764069639587d1bf5b4d14ce0ada6706429bd10f
 Author: electragn <ilektra.giannopoulou@ucdconnect.ie>
 Date:   Sun Nov 26 18:17:28 2023 +0000
